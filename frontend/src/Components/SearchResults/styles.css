@@ -1,0 +1,11 @@
+.individual-search-result {
+    background-color: rgb(231, 219, 242);
+    border: 5px dotted black;
+    padding-left: 20px;
+    padding-top: 15px;
+    margin: 20px;
+}
+
+.link-to-individual-college-page {
+    font-size: x-large;
+}

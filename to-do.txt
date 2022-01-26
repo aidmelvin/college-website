@@ -1,0 +1,20 @@
+In general:
+- Add an "any" filter to the price filter list
+- add more colleges
+- add feature to add colleges
+    - also add feature to fix existing college information if you see something wrong with it
+- community colleges
+- ESL schools to teach english
+- accepts TOEFL
+- filter by major
+- tests required to get into each school: add filter
+- application deadlines
+- change title of new tab for individual college
+- fix stupid icon thing where its looking for the image that i deleted
+
+When I push this to GitHub and put it on my website:
+
+- hide API key to MongoDB
+- change CORS to server.js to only allow certain access
+- remove excessive console.log() statements
+- clean up comments and add actually informative commenting
